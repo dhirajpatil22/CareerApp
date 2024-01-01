@@ -81,7 +81,7 @@ export function SignUp() {
     <Container>   
     
       <div className="header">
-      <div className="text">Sign Up</div>
+      <div className="text" style={{ color: "white" }}>Sign Up</div>
       <div className="underline"></div>
       </div>
       <Form onSubmit={handleSubmit}>

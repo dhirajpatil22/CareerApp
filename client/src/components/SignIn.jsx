@@ -58,7 +58,7 @@ export function SignIn() {
     <div className="background-image">
     <Container>
     <div className="header">
-    <div className="text">Sign In</div>
+    <div className="text" style={{ color: "white" }}>Sign In</div>
     <div className="underline"></div>
     </div>
       {errorMessage && <Alert variant="danger">{errorMessage}</Alert>}

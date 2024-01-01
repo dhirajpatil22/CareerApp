@@ -26,24 +26,24 @@ export function Home() {
       <Container>
         <Carousel>
           <Carousel.Item>
-            <img className="slide w-100" src="images/5.jpg" alt="First slide" />
+            <img className="slide w-100" src="https://community.thriveglobal.com/wp-content/uploads/2021/01/AdobeStock_193902167.jpeg" alt="First slide" />
             <Carousel.Caption>
-              <h3>First slide label</h3>
-              <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+              <h3></h3>
+              <p></p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="slide w-100" src="images/9.jpg" alt="Second slide" />
+            <img className="slide w-100" src="https://img.freepik.com/premium-vector/businessman-walking-cubes-with-text-career-symbol-reach-shiny-star_185038-380.jpg" alt="Second slide" />
             <Carousel.Caption>
-              <h3>Second slide label</h3>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              <h3></h3>
+              <p></p>
             </Carousel.Caption>
           </Carousel.Item>
           <Carousel.Item>
-            <img className="slide w-100" src="images/8.jpg" alt="Third slide" />
+            <img className="slide w-100" src="https://c8.alamy.com/comp/WG1JDB/qualification-word-cloud-concept-WG1JDB.jpg" alt="Third slide" />
             <Carousel.Caption>
-              <h3>Third slide label</h3>
-              <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+              <h3></h3>
+              <p></p>
             </Carousel.Caption>
           </Carousel.Item>
         </Carousel>
